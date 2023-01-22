@@ -1,7 +1,7 @@
 
 n = int(input("Введите размер матрицы: "))
 
-for y in range(n):
+for a in range(n):
     for x in range(n):
         buf_x = (n - 1) - y  # вспомогательное число, которое будет уменьшаться от n-1 до 0
         if buf_x > x:

@@ -1,3 +1,3 @@
-letters = ['guit','klop','trup','jui']
-letters.sort()
-print (letters)
+letter = ['guit','klop','trup','jui']
+letter.sort()
+print (letter)
