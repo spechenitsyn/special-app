@@ -1,4 +1,1 @@
-log/*.log
-.idea
-!log/sample.log
-!log/stop.log
+/.idea/
